@@ -4,7 +4,7 @@
 - Title news
 - Link to news
 - Short intro about news
-*Data scraping is stored in file 'data.json'*
+* *Data scraping is stored in file 'data.json'*
 ### Npm use:
 - Cheerio
 - Request-promise
