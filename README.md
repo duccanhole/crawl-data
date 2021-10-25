@@ -7,6 +7,6 @@
 * *Data scraping is stored in file 'data.json'*
 ### Npm use:
 - Cheerio
-- Request-promise
+- Request-promise (or axios alternative)
 - Fs(file system)
 ## Thanks for visit !
